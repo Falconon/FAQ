@@ -22,6 +22,9 @@ Es gibt aktuell noch einige Fehlermeldungen im Panel, deren Code an diese Liste 
 |9xxx|Teamspeak-Audiobot Error|
 |10xxx|Gameserver Error|
 |11xxx|Services Error|
+|12xxx|Domain Error|
+
+
 
 
 ## Fehler im Detail
